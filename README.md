@@ -2,7 +2,7 @@
 
 A snake game on terminal using python
 
-## How To Play Game?
+## How To Play the Game?
 
 1. Option 1, open the Executable in the dist folder.
 
@@ -10,8 +10,27 @@ A snake game on terminal using python
 
 ## Installation
 
-- open terminal and clone repo
-```sh
+1.  open terminal and clone repo
 
+```sh
+git clone https://github.com/rp-bot/py-snake-game.git
+cd py-snake-game
 ```
-- `pip install pipenv`
+
+2.  install pipenv on your computer
+
+```sh
+pip install pipenv
+```
+
+3.  install the virtual environment and packages.
+
+```sh
+pipenv install
+```
+
+4.  run the python file
+
+```sh
+python snake_game.py
+```
