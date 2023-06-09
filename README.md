@@ -4,7 +4,7 @@ A snake game on terminal using python
 
 ## How To Play the Game?
 
-1. Option 1, open the [Executable](dist/snake_game) which is placed in the dist folder.
+1. Option 1, run the [Executable](dist/snake_game) on your computer which can be found in the dist folder.
 
 2. Option 2, Build from source (follow the installation instruction below)
 
